@@ -1,2 +1,2 @@
 # ImgurGallery 
-# Application build uing kotlin.
+# Application build using kotlin.
